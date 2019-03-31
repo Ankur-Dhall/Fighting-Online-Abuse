@@ -1,5 +1,5 @@
 # Fighting-Online-Abuse
-This is a project created in python using machine learning to classify toxic and abusive coments to fight online abuse
+This is a project created in python using machine learning to classify toxic and abusive comments to fight online abuse
 
 
 Introduction:
